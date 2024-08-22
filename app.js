@@ -89,6 +89,6 @@ app.delete("/techmeet/home/comments/:id", (req, res)=>{
     posts = posts.filter((p)=> id != p.id);
     res.redirect("/techmeet/home/comments");
 })
-app.listen(port, ()=>{
+app.listen(process.env.PORT || port, ()=>{
     console.log(`listening to the port : ${port}`);
 })
