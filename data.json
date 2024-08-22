@@ -1,0 +1,182 @@
+{
+    "hritikroshan" : {
+        "name" : "Hritik Roshan",
+        "profileImage" : "https://i0.wp.com/short-biography.com/wp-content/uploads/hrithik-roshan/Hrithik-Roshan.jpg",
+        "tposts" : 5, 
+        "followers" : 828,
+        "following" : 229,
+        "aboutContent" : "Bollywood Super Star || Fighter, Krish To entertain someone is greate work ❤️",
+        "posts" : [
+
+            {
+                "image" : "https://www.dailypioneer.com/uploads/2021/story/images/big/new-look-hrithik-roshan-gets-back-to-work-in-new-year-2021-01-04.jpg",
+                "likes" : 2000,
+                "comments" : 225
+            },
+            {
+                "image" : "https://images5.fanpop.com/image/photos/25100000/hirithik-hrithik-roshan-25199610-1024-768.jpg",
+                "likes" : 1900,
+                "comments" : 250
+            },
+            {
+                "image" : "https://filmfare.wwmindia.com/content/2022/may/hrithikroshan11653555575.jpg",
+                "likes" : 2001,
+                "comments" : 345
+            },
+            {
+                "image" : "https://i.pinimg.com/originals/a8/07/b5/a807b566f856b10a0d4deb4fa559d5f3.jpg",
+                "likes" : 1002,
+                "comments" : 403
+            },
+            {
+                "image" : "https://www.hindustantimes.com/ht-img/img/2024/01/12/1600x900/Hrithik_Roshan_1705054520764_1705054529579.jpg",
+                "likes" : 2045,
+                "comments" : 987
+            }
+        ]
+    },
+
+    "tigershroff" : {
+        "name" : "Tiger Shroff",
+        "profileImage" : "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/09/27/871398-tigershroff-092819.jpg",
+        "tposts" : 5, 
+        "followers" : 828,
+        "following" : 229,
+        "aboutContent" : "South movies Super Star || Heropanti, War My goal is to do happy everyone ❤️",
+        "posts" : [
+            {
+                "image" : "https://www.superstarsbio.com/wp-content/uploads/2018/07/tiger-shroff-7591-PS.jpg",
+                "likes" : 2000,
+                "comments" : 225
+            },
+            {
+                "image" : "https://bikeloge.com/wp-content/uploads/2024/08/New-Project-2-11-1024x576.jpg",
+                "likes" : 1900,
+                "comments" : 250
+            },
+            {
+                "image" : "https://images.mid-day.com/images/images/2021/jun/shahid-sonali_d.jpg",
+                "likes" : 2001,
+                "comments" : 345
+            },
+            {
+                "image" : "https://media2.bollywoodhungama.in/wp-content/uploads/2016/03/Tiger-Shroff-1.jpg",
+                "likes" : 1002,
+                "comments" : 403
+            },
+            {
+                "image" : "https://sun9-78.userapi.com/c855224/v855224956/94007/6UgJjKtivEw.jpg",
+                "likes" : 2045,
+                "comments" : 987
+            }
+        ]
+    },
+
+    "salmankhan" : {
+        "name" : "Salman Khan",
+        "profileImage" : "https://static.toiimg.com/photo/imgsize-141699,msid-77357187/77357187.jpg",
+        "tposts" : 5, 
+        "followers" : 828,
+        "following" : 229,
+        "aboutContent" : "Bollywood Super Star || Fighter, Krish To entertain someone is greate work ❤️",
+        "posts" : [
+            {
+                "image" : "https://www.bollywoodimages.com/jpg/salman_khan_001_qqca.jpg",
+                "likes" : 2000,
+                "comments" : 225
+            },
+            {
+                "image" : "https://www.baltana.com/files/wallpapers-11/Salman-Khan-Wallpapers-Full-HD-31230.jpg",
+                "likes" : 1900,
+                "comments" : 250
+            },
+            {
+                "image" : "https://wallpapercave.com/wp/wp3983524.jpg",
+                "likes" : 2001,
+                "comments" : 345
+            },
+            {
+                "image" : "https://www.hindustantimes.com/ht-img/img/2023/04/11/1600x900/Salman_Khan_1681196056832_1681196057063_1681196057063.jpg",
+                "likes" : 1002,
+                "comments" : 403
+            },
+            {
+                "image" : "https://i.pinimg.com/736x/18/66/8d/18668d67b8a198f0df14483c26fa7608.jpg",
+                "likes" : 2045,
+                "comments" : 987
+            }
+        ]
+    },
+    "amirkhan" : {
+        "name" : "Amir Khan",
+        "profileImage" : "https://www.suntiros.com/wp-content/uploads/2017/01/Aamir-Khan-Latest-Hair-Style-Pictures-Pics.jpg",
+        "tposts" : 5, 
+        "followers" : 828,
+        "following" : 229,
+        "aboutContent" : "Bollywood Super Star || PK, 3 idiots To entertain someone is greate work ❤️",
+        "posts" : [
+            {
+                "image" : "https://media.gqindia.com/wp-content/uploads/2016/07/GQ-India-aamir-khan-2.jpg",
+                "likes" : 2000,
+                "comments" : 225
+            },
+            {
+                "image" : "https://i2.cinestaan.com/image-bank/1500-1500/126001-127000/126991.jpg",
+                "likes" : 1900,
+                "comments" : 250
+            },
+            {
+                "image" : "https://3.bp.blogspot.com/-QgLsR1SWqoQ/VAWV-kP8DDI/AAAAAAAAEp8/hcCG7C6V9As/s1600/cool-aamir-khan-pics-in-gajini-free-download.jpg",
+                "likes" : 2001,
+                "comments" : 345
+            },
+            {
+                "image" : "https://wallpapercave.com/wp/wp4004027.jpg",
+                "likes" : 1002,
+                "comments" : 403
+            },
+            {
+                "image" : "https://4.bp.blogspot.com/-51XlNMqtuU0/WWDGlYBfITI/AAAAAAAAACY/yHy0ztbR3Tsv4cfkk9BJW2uGSdWAX5k9QCLcBGAs/s1600/HD%2BWallpapers%2B%2B%25286%2529.jpg",
+                "likes" : 2045,
+                "comments" : 987
+            }
+        ]
+    },
+
+    "sarukhkhan" : {
+        "name" : "Sarukh Khan",
+        "profileImage" : "https://upload.wikimedia.org/wikipedia/commons/6/6e/Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg",
+        "tposts" : 5, 
+        "followers" : 828,
+        "following" : 229,
+        "aboutContent" : "Bollywood Super Star || Fighter, Krish To entertain someone is greate work ❤️",
+        "posts" : [
+            {
+                "image" : "https://wallpapercave.com/wp/wp3989321.jpg",
+                "likes" : 2000,
+                "comments" : 225
+            },
+            {
+                "image" : "https://www.baltana.com/files/wallpapers-11/Shahrukh-Khan-Wallpapers-Full-HD-31248.jpg",
+                "likes" : 1900,
+                "comments" : 250
+            },
+            {
+                "image" : "https://wallsdesk.com/wp-content/uploads/2016/11/Shah-Rukh-Khan-Wallpapers-HD.jpg",
+                "likes" : 2001,
+                "comments" : 345
+            },
+            {
+                "image" : "https://i.ytimg.com/vi/oeD2G7QWLK4/maxresdefault.jpg",
+                "likes" : 1002,
+                "comments" : 403
+            },
+            {
+                "image" : "https://static.toiimg.com/thumb/64749857.cms?width=680&height=512&imgsize=281913",
+                "likes" : 2045,
+                "comments" : 987
+            }
+        ]
+    }
+
+}

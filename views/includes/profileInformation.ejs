@@ -1,0 +1,37 @@
+<div class="profile-container">
+    <div class="profile-image">
+        <img src="<%= data.profileImage %>" alt="">
+    </div>
+    <div class="profile-details">
+        <div class="user-follow-msg-btn">
+            <div class="user-profile-name">
+                <p><%= username %> <i class="fa-solid fa-check"></i></p>
+            </div>
+            <div class="follow-msg-btn">
+                <a href="">Follow</a>
+                <a href="">Message</a>
+            </div>
+        </div>
+        <p class="post-follower-count"><span><%= data.tposts %> posts</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<span><%= data.followers %> followers</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span><%= data.following %> following</span></p>
+        <p class="user-full-name"><%= data.name %></p>
+        <p class="user-account-link-name">@ <%= username %> <i class="fa-solid fa-check"></i></p>
+
+        <div class="about-content">
+            <p><%= data.aboutContent %></p>
+            <i class="fa-solid fa-link link"></i><a href="https://www.google.com">linktrr.ee/bollywood.com </a><i class="fa-solid fa-check"></i>
+        </div>
+    </div>
+    <br>
+    <div class="other-social-media">
+        <div class="other-social-media-follow-content">
+            <p>visit & follow on  👉</p>
+            <div class="other-social-media-link">
+                <img src="https://pngimg.com/uploads/instagram/instagram_PNG10.png" alt="instagram">
+                <img src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-1-2.png" alt="facebook">
+                <img src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" alt="twitter">
+                <img src="https://static.vecteezy.com/system/resources/previews/016/716/480/original/whatsapp-icon-free-png.png" alt="what's App">
+                <img src="https://logospng.org/download/tiktok/logo-tiktok-icone-1536.png" alt="tik tok">
+            </div>
+        </div>
+    </div>
+</div>

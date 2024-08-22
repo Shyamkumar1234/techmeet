@@ -1,0 +1,16 @@
+<div class="posts-container">
+    <h2>Recent posts:</h2><br>
+    <div class="posts">
+        <% for(let post of data.posts){ %>
+            <div class="img">
+                <img src="<%= post.image %>" alt="">
+                <div class="like-comment">
+                    <img src="https://pngimg.com/uploads/like/like_PNG14.png" id="like">
+                    <span><%= post.likes %></span>
+                    <img src="https://community.appian.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-50/record_2D00_comments_2D00_icon-_2800_version-1_2900_.png" alt="">
+                    <span><%= post.comments %></span>
+                </div>
+            </div>
+        <% } %>
+    </div>
+  </div>

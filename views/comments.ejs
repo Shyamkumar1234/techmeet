@@ -1,0 +1,44 @@
+<%- include("includes/head.ejs") %>
+<body>
+    <%- include("includes/logdnavbar.ejs") %>
+
+    <div class="comments-main-container">
+        <div id="commentLink">
+            <div class="new-comments-links" id="viewAddForm">
+                <h2>write new Comments : </h2>
+                <span id="newBtn">New</span>
+            </div>
+        </div>
+        <form method="post" action="/techmeet/home/comments" id="addForm">
+            <div class="comment-add">
+                <h2>Add New Comments :</h2>
+                <input type="text" placeholder="enter username" name="username">
+                <textarea name="content" id="content" placeholder="write your comment here"></textarea>
+                <div class="coments-buttons">
+                    <button>Submit</button>
+                    <span id="cancelbtn">Cancel</span>
+                </div>
+            </div>
+        </form>
+        <div class="comments-container">
+            <% for(let post of posts){ %>
+                <div class="comments">
+                    <div class="user-time">
+                        <h3 class="username">@<%= post.username %></h3> 
+                        <form method="post" action="/techmeet/home/comments/<%= post.id %>?_method=DELETE">
+                            <button>Delete</button>
+                        </form>
+                    </div>
+                    <p class="content"><%= post.content.substring(0, 70) + "..." %></p>
+                    <div class="controls">
+                        <a href="http://localhost:8080/techmeet/home/comments/<%= post.id %>/show">View</a>
+                        <a href="http://localhost:8080/techmeet/home/comments/<%= post.id %>/edit">Edit</a>
+                        <span><%= post.time %></span>
+                    </div>
+                </div>
+            <% } %>
+        </div>
+    </div>
+    <%- include("includes/footer.ejs") %>
+</body>
+</html>
