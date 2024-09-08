@@ -1,7 +1,7 @@
 
 function searchPerson(){
     let inputVal = document.getElementById('searchPerson').value;
-    location.href = `http://localhost:8080/techmeet/${inputVal}`;
+    location.href = `/techmeet/${inputVal}`;
 }
 
 let homeScreenImg = document.getElementById("homeBkgrnd");
